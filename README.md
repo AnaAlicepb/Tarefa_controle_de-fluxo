@@ -62,7 +62,6 @@
     <ul>
         <li> Entrada de quatro notas pelo usuário e cálculo da média dessas notas.</li>
         <li> Determinação da situação do aluno (aprovado, recuperação, reprovado) com base na média calculada.</li>
-
     </ul>
 </section>
 
