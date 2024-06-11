@@ -69,6 +69,7 @@
     <h2>Ferramentas</h2>
     <ul>
         <li><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Badge Java"></li>
+        <li><img src="https://img.shields.io/badge/Visual_Studio_Code-0078d7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Badge Visual Studio Code"></li>
     </ul>
 </section>
 
